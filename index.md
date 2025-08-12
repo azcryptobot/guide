@@ -11,6 +11,7 @@ Commands are short and flexible. Just type `/command` or prefix with parameters.
 <hr>
 
 ## 📌 1. Basic Price Checks 💰
+
 Command | Example | Description
 ---|---|---
 **/p** | `/p btc eth` | Get quick prices ⚡. Add `-4Y` for historical ⏳.
@@ -25,6 +26,7 @@ Command | Example | Description
 <hr>
 
 ## 📌 2. Watchlists & Alerts 👀
+
 Command | Example | Description
 ---|---|---
 **/wt** | `/wt btc 10` | Watch token with amount 👁️.
@@ -35,6 +37,7 @@ Command | Example | Description
 <hr>
 
 ## 📌 3. Trading Tools 📈
+
 Command | Example | Description
 ---|---|---
 **/buy** | `/buy btc 20000` | Profit/loss if bought at price 💹.
@@ -50,6 +53,7 @@ Command | Example | Description
 <hr>
 
 ## 📌 4. Market Analysis 🌎
+
 Command | Example | Description
 ---|---|---
 **/trending** | `/trending` | Trending searches (CoinGecko) 📈.
@@ -64,6 +68,7 @@ Command | Example | Description
 <hr>
 
 ## 📌 5. Charts 📊
+
 Command | Example | Description
 ---|---|---
 **/ch** | `/ch btc h1` | Binance/MEXC/Gate chart 📈.
@@ -75,6 +80,7 @@ Command | Example | Description
 <hr>
 
 ## 📌 6. Utilities & Fun 🎉
+
 Command | Example | Description
 ---|---|---
 **/calc** | `/calc 1+2*3` | Calculator ➗.
@@ -89,6 +95,7 @@ Command | Example | Description
 <hr>
 
 ## 📌 7. Information ℹ️
+
 Command | Example | Description
 ---|---|---
 **/info** | `/info bnb` | Coin info (CoinMarketCap) 🗒️.
