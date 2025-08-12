@@ -3,6 +3,8 @@ layout: default
 title: Bot Starter Guide
 ---
 
+
+
 # 🚀 Bot Starter Guide
 
 Welcome! This bot helps you **track crypto prices 📊, analyze markets 📈, set alerts 🔔, and more 🎯** — all inside Telegram 💬.  
